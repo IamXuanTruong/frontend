@@ -1,0 +1,86 @@
+.about-page {
+    width: 100%;
+}
+
+.banner-about {
+    background-image: url("https://kit.sociolib.com/nextrip/wp-content/uploads/sites/12/2024/09/37.webp");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.banner-about h3 {
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.2;
+    color: #fff;
+}
+
+.banner-about p {
+    font-size: 20px;
+    color: #fff;
+    line-height: 1.2;
+}
+
+.text-banner-about {
+    padding-top: 150px;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.item-about {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-about {
+    width: 80%;
+    margin: 150px auto;
+}
+
+.item-about {
+    width: 50%;
+}
+
+.text-item {
+    width: 40%;
+}
+
+.text-item img {
+    margin-top: 200px;
+    width: 150px;
+    height: 175px;
+}
+
+.text-item h3 {
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-item p {
+    padding-top: 20px;
+    line-height: 1.5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-item {
+    width: 50%;
+    position: relative;
+}
+
+.bg-item img {
+    width: 100%;
+    height: 100%;
+}
+
+.bg-item2 {
+    position: absolute;
+    top: 40%;
+    right: -80px;
+}
+
+.bg-item2 img {
+    width: 150px;
+    height: 170px;
+}

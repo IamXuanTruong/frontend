@@ -1,0 +1,377 @@
+.home-page {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.bg-router-home img {
+    position: absolute;
+    top: 0px;
+}
+
+.bg-router-home {
+    position: relative;
+    width: 100%;
+    background-image: url("https://wanderlog.com/assets/LandingPageHero.jpg?fbclid=IwY2xjawFXVTRleHRuA2FlbQIxMAABHfON2uOp_rHQLu3c2j4C6A6zy5GTgsZp-0A6bxb7J6KHWo9ukhMGuNiytw_aem__m58bMDNbtRqL9NjAjxrfw");
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+.bg-router-home h3 {
+    padding: 20px 0px;
+    color: #2c365d;
+    font-weight: bold;
+    font-size: 2.15rem;
+    letter-spacing: -.03em;
+    line-height: 1.2
+}
+
+.bg-router-home p {
+    color: #6c757d;
+    font-size: 1.5rem;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+}
+
+.main-bg-router {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+
+.text-bg-router-home {
+    width: 40%;
+}
+
+.bg-map-home {
+    margin: 100px auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.img-bg-map {
+    width: 60%;
+}
+
+.text-bg-map {
+    width: 35%;
+    padding-top: 30px;
+}
+
+.text-bg-map h3 {
+    color: #2c365d;
+    font-weight: bold;
+    font-size: 2.25rem;
+    letter-spacing: -.03em;
+    line-height: 1.2
+}
+
+.text-bg-map p {
+    color: #6c757d;
+    font-size: 1.5rem;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+}
+
+.click-router-home {
+    margin-top: 20px;
+    text-align: center;
+    width: 160px;
+    color: white;
+    background-color: #de503a;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.click-router-home a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.text-bg-router-home {
+    padding-top: 100px;
+}
+
+.review-home {
+    margin: 100px auto;
+    width: 100%;
+}
+
+.review-home h3 {
+    color: #212529;
+    color: #2c365d;
+    font-size: 2.25rem;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+}
+
+.replace-home {
+    margin: 100px auto;
+    width: 80%;
+}
+
+.replace-home h3 {
+    color: #212529;
+    color: #2c365d;
+    font-size: 2.25rem;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+}
+
+.list-item-replace {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.item-replace-home {
+    margin: 40px auto;
+    width: 30%;
+}
+
+.item-replace-home img {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.item-replace-home h3 {
+    padding: 20px 0px;
+    color: #2c365d;
+    line-height: 1;
+    font-weight: 700;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: -.03em
+}
+
+.item-replace-home p {
+    color: #6c757d;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.plan-pro-home {
+    margin: 100px auto;
+    width: 80% !important;
+}
+
+.plan-pro-home h3 {
+    color: #2c365d;
+    font-size: 2.25rem;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+}
+
+.plan-pro-home p {
+    padding-top: 20px;
+    color: #6c757d;
+    font-size: 1.5rem;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+.plan-pro-home a {
+    text-decoration: none;
+}
+
+.list-plan-pro {
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-plan-pro {
+    width: 28%;
+}
+
+.item-plan-pro img {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.item-plan-pro h3 {
+    padding-top: 20px;
+    color: #2c365d;
+    line-height: 1;
+    font-weight: 700;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: -.03em
+}
+
+.item-plan-pro p {
+    color: #6c757d;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.destination-home {
+    position: relative;
+    width: 100%;
+    margin: 100px auto;
+}
+
+.destination-home h3 {
+    color: #2c365d;
+    font-size: 2.25rem;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+}
+
+.destination-home p {
+    padding-top: 20px;
+    color: #6c757d;
+    font-size: 1.5rem;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+.destination-home a {
+    text-decoration: none;
+}
+
+.item-img-bg-map {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.item-img-bg-map img {
+    margin: 5px 0px;
+    border-radius: 10px;
+    border: 1px solid gainsboro;
+}
+
+.main-review-home {
+    width: 100%;
+}
+
+.item {
+    width: 100%;
+}
+
+.plan-pro-home {
+    width: 100%;
+    margin: 100px auto;
+}
+
+.main-destination-home {
+    width: 80%;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-destination-home {
+    width: 24%;
+    border-radius: 10px;
+    background-image: url("https://toigingiuvedep.vn/wp-content/uploads/2021/07/anh-nui-phu-si.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 380px;
+}
+
+.item-destination-home1 {
+    width: 24%;
+    border-radius: 10px;
+    background-image: url("https://datviettour.com.vn/uploads/images/chau-au/phap/danh-thang/thap-eiffel-va-hanh-trinh-kham-pha-nuoc-phap-1.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 380px;
+}
+
+.item-destination-home2 {
+    width: 24%;
+    border-radius: 10px;
+    background-image: url("https://img.thuthuatphanmem.vn/uploads/2018/11/05/hinh-anh-hoa-anh-dao-nhat-ban-vao-mua-dong-lanh-gia_113555983.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 380px;
+}
+
+.item-destination-home3 {
+    width: 24%;
+    border-radius: 10px;
+    background-image: url("https://www.vietnam-evisa.com/wp-content/uploads/2018/06/ha-giang-7-1474279385-1.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 380px;
+}
+
+.name-destination {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    margin: 300px auto;
+    justify-content: space-between;
+}
+
+.name-destination img {
+    width: 35px;
+    height: 35px;
+    border-radius: 100px;
+}
+
+.name-destination p {
+    color: white;
+    font-size: 14px;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.router-destination {
+    position: absolute;
+    /* absolute positioning */
+    top: 250px;
+    height: 500px;
+    background-color: #2b3964;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    z-index: -1;
+    /* Lower z-index */
+}
+
+.router-destination p {
+    color: white;
+    margin-top: 400px;
+    font-size: 16px;
+    letter-spacing: -.03em;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.router-destination a {
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 8px;
+    font-size: 14px;
+    color: white;
+}
+
+.router-destination:hover a {
+    background-color: #6c757d;
+}

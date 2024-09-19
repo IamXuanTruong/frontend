@@ -1,0 +1,149 @@
+.contact-page {
+    width: 80%;
+    margin: 100px auto;
+    display: flex;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 4px -1px 26px 13px rgba(0, 0, 0, 0.24);
+    -webkit-box-shadow: 4px -1px 26px 13px rgba(0, 0, 0, 0.24);
+    -moz-box-shadow: 4px -1px 26px 13px rgba(0, 0, 0, 0.24);
+}
+
+.bg-contact {
+    width: 50%;
+}
+
+.bg-contact iframe {
+    width: 100%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 100%;
+}
+
+.detail-contact {
+    width: 50%;
+}
+
+.contact-main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+.contact-text h3 {
+    font-size: 1.75rem;
+    color: #000;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.contact-text p {
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: normal;
+    color: #666666;
+    padding: 10px 0px;
+}
+
+.about-contact {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-contact {
+    width: 30%;
+}
+
+.item-contact h3 {
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.2);
+    display: block;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.item-contact a {
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: normal;
+    background: #f4f4f4;
+    color: #666666;
+    text-decoration: none;
+}
+
+.form-contact {
+    width: 100%;
+    margin: 20px auto;
+}
+
+.form-contact input {
+    border: none;
+    font-size: 16px;
+    padding: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    width: 100%;
+}
+
+.form-contact textarea {
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    width: 100%;
+}
+
+.form-contact button {
+    background: #e3b04b;
+    border-color: #e3b04b;
+    color: #fff;
+    padding: 12px 16px;
+    cursor: pointer;
+    border-width: 1px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.contact-page .contact-main .form-contact .input:focus,
+.contact-page .contact-main .form-contact .textarea:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.contact-media {
+    width: 100%;
+    margin: 50px auto;
+}
+
+.contact-media h3 {
+    margin: 10px 0px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: "Poppins", Arial, sans-serif;
+    color: #000;
+    font-size: 1.75rem;
+}
+
+.media-detail {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.media-detail a {
+    text-decoration: none;
+    background-color: transparent;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: normal;
+    background: #f4f4f4;
+    color: #666666;
+    text-transform: uppercase;
+}
